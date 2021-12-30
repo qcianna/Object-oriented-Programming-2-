@@ -32,9 +32,6 @@ public class Person {
         return surname;
     }
 
-    public void setAge(int wiek) {
-        this.age = wiek;
-    }
 }
 
 enum Gender {KOBIETA, MEZCZYZNA};
